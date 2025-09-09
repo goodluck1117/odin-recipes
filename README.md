@@ -1,13 +1,11 @@
 # Odin Recipes
 
-This is my first project for [The Odin Project].
+This is my first project for The Odin Project.
 It is a simple recipe website built using only **HTML** to practice the basics of web development.
 
 ## Project Overview
 The project will include a main index page and links to a few recipes.  
-Each recipe will be a separate HTML page that contains a title, an image, a description, and 
-
-step-by-step instructions.
+Each recipe will be a separate HTML page that contains a title, an image, a description, and step-by-step instructions.
 
 ## Skills Demonstrated
 By the end of this project, I will have practiced and demonstrated the following skills:
