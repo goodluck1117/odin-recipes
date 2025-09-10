@@ -1,6 +1,6 @@
 # Odin Recipes
 
-This is my first project for The Odin Project.
+This is my first project for (The Odin Projec)t.
 It is a simple recipe website built using only **HTML** to practice the basics of web development.
 
 ## Project Overview
